@@ -12,7 +12,7 @@ export const AboutSection: React.FC = () => {
             <span>Product Mission & Architecture</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight">
-            About ScamShield AI
+            About ScamShield A
           </h1>
           <p className="text-sm sm:text-base text-cyan-300 font-semibold font-display">
             “Stop scams before they happen – Proactive digital fraud prevention before harm occurs.”
